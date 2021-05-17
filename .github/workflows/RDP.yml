@@ -40,3 +40,4 @@ jobs:
     - name: RDP
       run: cmd /c start.bat
     - name: Loading
+      run: cmd /c loop.bat
